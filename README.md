@@ -1,5 +1,5 @@
 # Budget-app
-Budget calculator for current month
+Budget calculator for current month.
 
 calculates total incomes, total outcomes and current budget.
 
